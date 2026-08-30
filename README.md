@@ -4,4 +4,4 @@
 
 You can also use URLs to these fonts to import them using CSS or other methods.
 
-It also offers some SVGs as well.
+It also offers some other unique files as well.
